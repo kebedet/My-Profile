@@ -1,13 +1,16 @@
-Kebede Shiferaw Portfolio
+Hi there, this is Kebede Shiferaw's Portfolio page.
+
 Welcome to my professional portfolio. This site showcases my expertise in Azure Fabric, Power BI, and Cloud Data Engineering, along with selected projects and case studies.
 ________________________________________
 👋 About Me
+
 Cloud Data Engineer with expertise in cloud platforms, distributed systems, data security, and data modeling. Skilled at designing and implementing high-performance data pipelines and analytics solutions that accelerate decision-making. Experienced in automating workflows, building dashboards, and equipping cross-functional teams with actionable insights.
 •	Location: St. Louis, MO
 •	LinkedIn: linkedin.com/in/kebedeshiferaw
 •	Email: kebetads@gmail.com
 ________________________________________
 🛠 Technical Skills
+
 •	Data Engineering & Cloud: Azure SQL, Azure Data Factory, Azure Data Lake, Cosmos DB, Microsoft Fabric
 •	Business Intelligence & Analytics: Power BI, Tableau, SSRS, SQL Server, DAX, T-SQL, SSIS
 •	Programming & Scripting: Python, SQL, Scope, PowerShell
@@ -16,6 +19,7 @@ ________________________________________
 •	Version Control & Agile: Azure DevOps, Git, Scrum
 ________________________________________
 📂 Projects
+
 1. Fabric Pipeline Optimization
 •	Designed and automated pipelines using Microsoft Fabric.
 •	Improved data delivery speed and integrity.
@@ -30,15 +34,19 @@ ________________________________________
 •	Demo: [Case Study PDF]
 ________________________________________
 📊 Case Studies
+
 •	Financial Accountability Dashboard: Enabled researchers and executives to track accomplishments against expenditures.
 •	Telemetry Data Processing: Implemented SCOPE scripts in COSMOS to provide workable telemetry data.
 •	Accessibility in Dashboards: Redesigned visuals for color vision deficiency.
 ________________________________________
 🎓 Education & Certifications
+
 •	MS, Geographic Information Systems – Addis Ababa University
 •	BS, Mathematics – Addis Ababa University
 •	BS, Business Education – Addis Ababa University
+
 Certifications:
+
 •	Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 •	Microsoft Certified: Analytics Solutions Using Microsoft Fabric (DP-600)
 •	Microsoft Certified: Power BI Data Analyst Associate (PL-300)
